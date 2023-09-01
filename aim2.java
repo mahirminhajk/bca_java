@@ -7,16 +7,16 @@ import java.util.Scanner;
 
 class TrinagleFinder {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter the length of side A: ");
-        double a = scanner.nextDouble();
+        double a = sc.nextDouble();
 
         System.out.print("Enter the length of side B: ");
-        double b = scanner.nextDouble();
+        double b = sc.nextDouble();
 
         System.out.print("Enter the length of side C: ");
-        double c = scanner.nextDouble();
+        double c = sc.nextDouble();
 
         if (isValidTriangle(a, b, c)) {
             String triangleType = findTriangleType(a, b, c);
@@ -28,7 +28,7 @@ class TrinagleFinder {
             System.out.println("Invalid triangle. The sum of any two sides must be greater than the third side.");
         }
 
-        scanner.close();
+        sc.close();
     }
 
     public static boolean isValidTriangle(double a, double b, double c) {
