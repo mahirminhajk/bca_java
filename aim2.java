@@ -50,3 +50,12 @@ class TrinagleFinder {
         return Math.sqrt(s * (s - a) * (s - b) * (s - c));
     }
 }
+
+/*
+ * class diagram
+ * TriangleFinder
+ * - main(String[ ] args)
+ * - isValidTriangle(double a, double b, double c): boolean
+ * - findTriangleType(double a, double b, double c): String
+ * - triangleArea(double a, double b, double c): double
+ */

@@ -69,3 +69,12 @@ class ArrayFinder {
     }
 
 }
+
+/*
+ * class diagram
+ * ArrayFinder
+ * - main(String[ ] args)
+ * - findSM(int[ ] a): int
+ * - findLA(int[ ] a): int
+ * - findSeLa(int[ ] a): int
+ */

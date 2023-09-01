@@ -36,3 +36,11 @@ class Find {
     }
 
 }
+
+/*
+ * class diagram
+ * Find
+ * - main(String[ ] args)
+ * - findHCF(int a, int b): int
+ * - findLCF(int a, int b): int
+ */
