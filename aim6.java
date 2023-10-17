@@ -1,4 +1,7 @@
-//pdf
+// Write a program to perform base conversion
+// a) Integer to binary.
+// b) Integer to octal.
+// c) Integer to hexadecimal.
 
 
 import java.util.Scanner;

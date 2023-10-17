@@ -1,5 +1,6 @@
-// 7.Write java program to find the sum of the digits and reverse of a given number.
+// Write java program to find the sum of the digits and reverse of a given number.
 // (using class and objects)
+
 import java.util.Scanner;
 
 class NumberOperations {

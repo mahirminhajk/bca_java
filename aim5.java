@@ -1,4 +1,4 @@
-//Write a program to find the trace and transpose of a matrix.
+// Write a program to find the trace and transpose of a matrix.
 
 import java.util.Scanner;
 
