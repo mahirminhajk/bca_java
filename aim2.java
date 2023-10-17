@@ -1,7 +1,7 @@
 /*
- * Given the sides of a triangle, write a program to check whether the
- * triangleis equilateral, isosceles or scalene and find its area
- */
+    Given the sides of a triangle, write a program to check whether the
+    triangles equilateral, isosceles or scalene and find its area
+*/
 
 import java.util.Scanner;
 
