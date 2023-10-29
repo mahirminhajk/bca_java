@@ -1,5 +1,6 @@
 
 // Java Programming Code to Find HCF LCM of Two Numbers.
+
 import java.util.Scanner;
 
 class Find {
