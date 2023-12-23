@@ -1,4 +1,4 @@
-// .Create a class Account to deposit and withdraw money from a bank. Create a user 
+// Create a class Account to deposit and withdraw money from a bank. Create a user 
 // defined exception “MinBalExp‟ to be invoked when the withdrawal amount is 
 // greater than balance.
 
